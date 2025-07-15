@@ -1,6 +1,8 @@
 # Black Hole Square
 
-A puzzle game for js13k 2021
+A puzzle game for js13k 2021 made by Quinten
+
+If you want to play the original game go here: https://github.com/Quinten/black-hole-square
 
 Theme: SPACE
 
