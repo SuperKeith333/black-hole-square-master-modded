@@ -1,5 +1,6 @@
 import gameSystem from './systems/game.js';
 import dataSystem from './systems/data.js';
+import nullnum from "./systems/worker.js"
 
 import entities from './entities.json';
 
@@ -23,5 +24,6 @@ if ('serviceWorker' in navigator) {
         }, err => {
             //console.log('ServiceWorker registration failed: ', err);
         });
+
     });
 }
